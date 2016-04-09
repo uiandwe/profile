@@ -9,7 +9,7 @@
     <!-- Header -->
     <section id="header">
         <div class="inner">
-            <h1><strong>HOWMANY</strong></h1>
+            <h1><strong id="h1strongBlack">HOWMANY</strong></h1>
             <div id="cd-intro-background" class="cd-intro-background">
                 <img src="/portfolio-source/howmany/image_01.png" alt="">
             </div>
@@ -41,16 +41,25 @@
                 <div class="6u 12u$(medium)">
                     <ul class="major-icons">
                         <li><span class="icon style2 major "><img src="/portfolio-source/howmany/nodejs-logo.png" alt="" /> </span></li>
-                        <li><span class="icon style4 major "><img src="/portfolio-source/howmany/casper-logo.png" alt="" /></span></li>
+                        <li><span class="icon style4 major "><img src="/portfolio-source/howmany/casper-logo.png" alt="" id="width70"/></span></li>
                         <li><span class="icon style5 major "><img src="/portfolio-source/travelingOwl/google_map.png" alt="" /></span></li>
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">
-                    <header class="major">
-                        <h2>사용 기술</h2>
-                    </header>
-                    <p>Back-end는 node.js기반의 express로 개발되었습니다. 스크립트 프레임워크중 가장 빠른 express로 구성되었습니다.</p>
-                    <p>데이터 수집은 phantom.js 기반의 handless webkit 기반인 casperjs로 map데이터를 수집하였습니다. 해당 데이터들은 api로 지원되지 않는 데이터들로써 모두 웹페에지를 크롤링하여 데이터를 수집하였습니다.</p>
+                    <h3>1. 진행기간</h3>
+                    <p>2014.02~ (매년 데이터 갱신중)</p>
+                    <h3>2. 주요내용</h3>
+                    <p>우리 주변의 상가의 갯수를 알기 위한 사이트.<br>
+                        포털사이트의 맵 데이터를 수집하여 원하는 데이터를 수집 및 데이터 분석. (네이버(2014, 2015)/네이트(2014) 맵 데이터 수집)</p>
+                    <h3>3. 본인이 공헌한 점 </h3>
+                    <p>프론트 엔드 (100%), 백엔드 (100%)</p>
+                    <h3>4. 사용한 Skill 또는 지식</h3>
+                    <p> 프론트 엔드 : HTML/CSS/Bootstrap/Javascript<br>
+                        백엔드 : PHP + laravel + Mysql + node.js + casperjs</p>
+                    <h3>5. 결과/성과 </h3>
+                    <p> node.js를 이용한 웹서버 구축 및 headless WebKit인 casperjs를 이용한 지도 사이트 파싱 및 데이터 수집<br>
+                        node.js 프레임워크 습득 및 비동기 웹사이트에 대한 파싱 습득 및 수집 데이터에서의 예외처리 / 오류 데이터 제거 후 데이터 제공
+                    </p>
                 </div>
             </div>
         </div>

@@ -49,19 +49,28 @@
                         <li><span class="icon style1 major "><img src="/portfolio-source/gramo/python.png" alt="" /> </span></li>
                         <li><span class="icon style1 major "><span>C3.js</span></span></li>
                         <li><span class="icon style1 major "><img src="/portfolio-source/gramo/fyber.png" alt="" /></span></li>
-                        <li><span class="icon style1 major "><img src="/portfolio-source/gramo/adpopcorn.png" alt="" /></span></li>
+                        <li><span class="icon style1 major "><img src="/portfolio-source/gramo/adpopcorn.png" alt="" id="width150"/></span></li>
 
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">
-                    <header class="major">
-                        <h2>사용 기술</h2>
-                    </header>
-                    <p>Back-end는 python기반의 django로 개발되었습니다. python 프레임워크중 가장 빠르면서 기본적으로 admin템플릿이 제공되어 django를 선택하였습니다.</p>
-                    <p>Front-end는 어드민 페이지만이 존재하며 html5/css3를 통한 반응형으로 만들어졌습니다. C3.js를 통하여 매출 및 현재 광고 수익에 대한 상황을 파악 수 있도록 그래프를 커스텀하여 개발하였습니다.</p>
-                    <p>앱광고의 경우 trialpay, adpopcorn, tnk, fyber, linkprice의 콜백을 통하여 포인트가 적립하도록 하였으며 자체 적립 API를 개발하여 타 웹사이트에서 그라모 포인트를 적립할수 있도록 개발하였습니다.</p>
-                    <p>편의점(cu, 세븐일레븐, GS) 및 체인점(inumber)에 속하는 가게의 쿠폰 발급을 할수 있도록 자동 스크립트를 개발하였습니다.</p>
-                    <p>광고앱의 부정행위 및 기타 해커의 침입을 방지 하기 위해서 사용자의 모든 정보를 암호화하여 및 부정 클릭 방지를 구현하였습니다.</p>
+                    <h3>1. 진행기간</h3>
+                    <p>2014.08~2014.10</p>
+                    <h3>2. 주요내용</h3>
+                    <p>리워드앱(포인트 적립을 통한 쿠폰 사용)</p>
+                    <h3>3. 본인이 공헌한 점 </h3>
+                    <p>프론트 엔드(어드민 페이지 100%) + 백엔드 (100%)</p>
+                    <h3>4. 사용한 Skill 또는 지식</h3>
+                    <p> 프론트 엔드 : HTML/CSS/Bootstrap/Javascript/<br>
+                        백엔드 : python + django + mysql</p>
+                    <h3>5. 결과/성과 </h3>
+                    <p> 현재 중국기업에 exit으로 인한 국내 활동 종료<br>
+                        국내외 광고 연동(trialpay / adpopcorn / tnk / fyber / linkprice) 콜백 구현<br>
+                        국내 쿠폰 발급(inumber) 연동<br>
+                        자체 광고 서비스 구현및 콜배 구현(타 브라우저에서 콜백을 통한 적립가능)<br>
+                        c3.js 커스텀을 통한 광고 수익 그래프 화면 개발
+                    </p>
+
                 </div>
             </div>
         </div>

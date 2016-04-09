@@ -57,8 +57,7 @@
                     <p> 프론트 엔드 : HTML/CSS/Bootstrap/Javascript <br>
                         백엔드 : python + django + mysql</p>
                     <h3>5. 결과/성과 </h3>
-                    <p>   <a href="http://dfxp.geeekdev.com/">http://dfxp.geeekdev.com/</a><br>
-                        django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
+                    <p> django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
                         모듈별 한글 인코딩에 따른 예외 처리 습득 및 향후 변환한 자막들을 시리즈물로 묶어서 배포할 예정
                     </p>
 

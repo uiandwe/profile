@@ -1995,6 +1995,7 @@
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			margin: 0;
+            display: block;
 		}
 
 		header.major p {
@@ -2177,10 +2178,10 @@
 	::-webkit-input-placeholder {
 		color: #999 !important;
 		opacity: 1.0;
-	}
 
-	:-moz-placeholder {
-		color: #999 !important;
+:-moz-placeholder {
+}
+color: #999 !important;
 		opacity: 1.0;
 	}
 
@@ -3447,6 +3448,14 @@
     .major-icons img{width: 60px;height: 60px;-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);-ms-transform: rotate(-45deg);transform: rotate(-45deg);padding: 0px;margin-top: 10px;margin-bottom: -15px;}
 }
 
-.width70{
+#width70{
     width:70px;
+}
+
+#width150{
+    width:150px;
+}
+
+#h1strongBlack{
+    color:black !important;
 }

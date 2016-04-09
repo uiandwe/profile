@@ -12,7 +12,7 @@
     <!-- Header -->
     <section id="header">
         <div class="inner">
-            <h1><strong>Laughing Beans</strong></h1>
+            <h1><strong id="h1strongBlack">Laughing Beans</strong></h1>
             <div id="cd-intro-background" class="cd-intro-background">
                 <img src="/portfolio-source/laughingBeans/img_01.jpg" alt="">
             </div>
@@ -50,13 +50,20 @@
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">
-                    <header class="major">
-                        <h2>사용 기술</h2>
-                    </header>
-                    <p>Back-end는 php기반의 phalcon으로 개발되었습니다. php 프레임워크 중 가장 빠르면서 안정적이며 MVC 의 완전한 지원하기에 phalcon을 선택하였습니다.</p>
-                    <p>Front-end는 사용자가 각각의 콘텐츠를 한눈에 인식할 수 있도록 그리드 레이아웃의 카드 스타일을 적용하여 디자인했으며, 네비게이션부터 카테고리 등 웹사이트 내 흐름이 자연스럽게 이루어지도록 모든 요소를 적재적소에 배치하였습니다.</p>
-                    <p>사용자의 입장에서 자신의 레벨을 쉽게 알수 있는 홈 화면 및 제공된 컨텐츠에 대한 문제도 풀고 다시 복기 할수 있도록 로직을 구현하였습니다. 또한 자신의 모국어를 통해 번역을 하면 다시 다른 언어와 매칭되어 새로운 언어로 문제를 만들어내는 매칭시스템을 구현하였습니다.</p>
-                    <p>Google youtube api를 통하여 구간을 나누고 자동 플레이될수 있도록 하였으며, 모든 문제의 단어 및 문장을 읽어줄수 있도록 TTS api를 활용하여 손쉽게 언어를 배울수 있는 기술을 구현하였습니다. </p>
+                    <h3>1. 진행기간</h3>
+                    <p>2015.01 ~ 2015.02(1차 개발) / 2015.06 ~ 2015.08(2차 개발)</p>
+                    <h3>2. 주요내용</h3>
+                    <p>외국어와 모국어 지식을 서로 교환하여 배우는 외국어 어학 사이트 개발</p>
+                    <h3>3. 본인이 공헌한 점 </h3>
+                    <p>프론트 엔드 (어드민 페이지 100%), 백엔드 (50%)</p>
+                    <h3>4. 사용한 Skill 또는 지식</h3>
+                    <p> 프론트 엔드 : HTML/CSS/Bootstrap/Javascript/youtube-api/mashape(TTS)<br>
+                        백엔드 : php + phalcon + mysql</p>
+                    <h3>5. 결과/성과 </h3>
+                    <p> youtube 구간 설정 및 반복 구현 및 사용자가 입력한 텍스트에 대한 TTS callback 구현<br>
+                        자신의 모국어를 통해 번역을 하면 다시 다른 언어와 매칭되어 새로운 언어로 문제를 만들어내는 매칭시스템을 구현<br>
+                        어학 학습 페이지 구현 (시험 제출 및 정답 확인)
+                    </p>
                 </div>
             </div>
         </div>

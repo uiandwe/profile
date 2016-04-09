@@ -12,7 +12,7 @@
     <!-- Header -->
     <section id="header">
         <div class="inner">
-            <h1><strong>People Fund</strong></h1>
+            <h1><strong id="h1strongBlack">People Fund</strong></h1>
             <div id="cd-intro-background" class="cd-intro-background">
                 <img src="/portfolio-source/people/img_00.png" alt="">
             </div>
@@ -51,11 +51,17 @@
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">
-                    <header class="major">
-                        <h2>사용 기술</h2>
-                    </header>
-                    <p>해당 그래프화면은 모든 브라우저 및 저버전 브라우저까지 지원해야 하므로 canvas대신 svg를 선택하였습니다. 또한 모든 화면에 대응대야 하므로 반응형으로 제작되었습니다.</p>
-                    <p>svg의 기존 요소인 line/path/circle를 통하여 유연한 그래프를 그려내도록 하였습니다. 사용자의 간단한 이벤트는 jquery를 사용하여 처리하였습니다.</p>
+                    <h3>1. 진행기간</h3>
+                    <p>2015.03</p>
+                    <h3>2. 주요내용</h3>
+                    <p>P2P(Peer-to-Peer)대출 서비스의 반응형 그래프 구현</p>
+                    <h3>3. 본인이 공헌한 점 </h3>
+                    <p>프론트 엔드 (10%)</p>
+                    <h3>4. 사용한 Skill 또는 지식</h3>
+                    <p> 프론트 엔드 : Javascript/jquery</p>
+                    <h3>5. 결과/성과 </h3>
+                    <p> 개인 신용등급에 대한 데이터를 통한 그래프를 표현을 반응형으로 구현
+                    </p>
 
                 </div>
             </div>
