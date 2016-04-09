@@ -43,16 +43,25 @@
                     <ul class="major-icons">
                         <li><span class="icon style1 major fa-code"></span></li>
                         <li><span class="icon style2 major "><img src="/portfolio-source/travelingOwl/python.png" alt="" /> </span></li>
-                        <li><span class="icon style3 major ">pycaption</span></li>
+                        <li><span class="icon style3 major "><span>pycaption</span></span></li>
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">
-                    <header class="major">
-                        <h2>사용 기술</h2>
-                    </header>
-                    <p>Back-end는 python기반의 django로 개발되었습니다. python 프레임워크중 가장 빠르면서 기본적으로 admin템플릿이 제공되어 django를 선택하였습니다.</p>
-                    <p>Front-end는 html5/css3를 통한 반응형으로 만들어졌습니다. 플랫디자인을 중심으로 사이트를 최대한 가볍게 만들었습니다.</p>
-                    <p>오픈소스인 pycation을 한글 인토딩이 되도록 수정 / 반영하였습니다.</p>
+                    <h3>1. 진행기간</h3>
+                    <p>2015.12</p>
+                    <h3>2. 주요내용</h3>
+                    <p>자막파일 sim파일을 웹용 자막파일인 dfxp로 변환해 주는 사이트 </p>
+                    <h3>3. 본인이 공헌한 점 </h3>
+                    <p>프론트 엔드 (100%), 백엔드 (100%)</p>
+                    <h3>4. 사용한 Skill 또는 지식</h3>
+                    <p> 프론트 엔드 : HTML/CSS/Bootstrap/Javascript <br>
+                        백엔드 : python + django + mysql</p>
+                    <h3>5. 결과/성과 </h3>
+                    <p>   <a href="http://dfxp.geeekdev.com/">http://dfxp.geeekdev.com/</a><br>
+                        django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
+                        모듈별 한글 인코딩에 따른 예외 처리 습득 및 향후 변환한 자막들을 시리즈물로 묶어서 배포할 예정
+                    </p>
+
                 </div>
             </div>
         </div>
@@ -67,7 +76,7 @@
             <p></p>
             <div class="row 150%">
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_01.png" class="height-315" alt="" /></span>
+                    <span class="image fit"><img src="/portfolio-source/dfxp/image_01.png"  alt="" /></span>
                     <h3>플랫디자인을 통한 세련된 레이아웃 디자인</h3>
                     <p>파일 변환을 주목적으로 하는 사이트의 활용에 맞게 심플하고 단순하게 디자인을 기획하였습니다.</p>
                 </div>

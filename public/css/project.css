@@ -1845,7 +1845,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #555;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0 0 10px 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2792,6 +2792,11 @@
 				border-color: #ffffff;
 			}
 
+            #two li .icon span {
+                transform: rotate(-45deg);
+                display: inline-block;
+            }
+
 			.main.style2 .icon.major {
 				color: #ffffff;
 			}
@@ -3440,4 +3445,8 @@
 
 @media screen and (max-width: 1000px) {
     .major-icons img{width: 60px;height: 60px;-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);-ms-transform: rotate(-45deg);transform: rotate(-45deg);padding: 0px;margin-top: 10px;margin-bottom: -15px;}
+}
+
+.width70{
+    width:70px;
 }

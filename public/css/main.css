@@ -1620,7 +1620,7 @@
 	}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
-			border-bottom: solid 2px #fff;
+
 			display: inline-block;
 			padding-bottom: 1em;
 			position: relative;
