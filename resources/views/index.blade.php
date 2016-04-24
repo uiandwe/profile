@@ -14,7 +14,7 @@
                 <div class="inner">
                     <h2>현승재</h2>
                     <p>
-                        소프트웨어 엔지니어
+                        소프트웨어 엔지니어 - jenkins 확인
                     </p>
                     <img class="user-avatar" src="/images/profile.png" alt="user profile image">
                 </div>

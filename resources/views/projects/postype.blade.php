@@ -68,7 +68,7 @@
     <section id="three" class="main style1 special">
         <div class="container">
             <header class="major">
-                <h2>제작 과정</h2>
+                <h2>제작 과정 </h2>
             </header>
             <p></p>
             <div class="row 150%">
