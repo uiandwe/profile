@@ -26,11 +26,11 @@
                 <div class="inner">
                     <header class="major">
                         <h2>ABOUT</h2>
-                        <p> 필드에서 개발자로 일하면서 제게 필요한, 그리고 재미있는 컨셉의 서비스를 개발하는것을 좋아합니다. <br>
+                        <p> 필드에서 개발자로 일하면서 누구나 필요하고 재미있는 서비스를 개발하는것을 좋아합니다. <br>
                             주로 개발되는 서비스의 환경은 web 기반의 front-end, back-end를 총괄할 수 있습니다. <br>
-                            IT관련 블로그를 운영하며, opensource에도 참여중입니다. <br>
-                            No Warning, No Error를 통하여 Warning없이 작성하여 Error가 없는 프로그램을 만드는것을 목표로 합니다.<br>
-                            앞으로도 재미있고 더욱 필요한 서비스들을 계속해서 만들어나갈 생각입니다.</p>
+                            10년차 IT관련 블로그를 운영중 이며<br>
+                            Warning없는 코드를 작성하여 Error가 없는 프로그램 을 만드는것을 목표로 하며 언제나 효율적이고 재미있게 만들수 있는지를 생각합니다. <br>
+                            앞으로도 재미있고 더욱 필요한 서비스들을 계속해서 만들어나 갈 것입니다.</p>
                     </header>
                     <ul class="icons major">
                         <li><span class="icon fa-rocket major style1"><span class="label">Lorem</span></span></li>
@@ -55,7 +55,7 @@
                             </p>
                         </li>
                         <li class="icon fa-laptop">
-                            <h3>Bank-end</h3>
+                            <h3>Back-end</h3>
                             <p>linux+ubuntu, windows+window server<br>
                                 java+spring+ibatis<br>
                                 python+django/Flask<br>
