@@ -16,13 +16,13 @@
                     <p>
                         소프트웨어 엔지니어
                     </p>
-                    <img class="user-avatar" src="/images/profile.png" alt="user profile image">
+                    <img class="user-avatar" src="/images/sj2.png" alt="user profile image">
                 </div>
                 <a href="#one" class="more scrolly">Learn More</a>
             </section>
 
             <!-- One -->
-            <section id="one" class="wrapper style1 special">
+            <section id="one" class="wrapper style2 special">
                 <div class="inner">
                     <header class="major">
                         <h2>ABOUT</h2>
@@ -223,7 +223,7 @@
             </section> <!-- cd-gallery -->
         </section>
 
-        <footer>
+        <footer class="footer">
             <h3>CONTACT ME</h3>
             <ul class="icons">
                 <li><a href="https://github.com/uiandwe" class="icon fa-github"><span class="label">Github</span></a></li>
