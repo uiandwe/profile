@@ -92,6 +92,63 @@
                 </div>
                 <div class="cd-gallery cd-section cd-container">
                     <ul class="grid cs-style-3 clearfix">
+
+                        <li>
+                            <figure>
+                                <a href="/project/postype/">
+                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <figcaption>
+                                        <h3>POSTYPE</h3>
+                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <span class="entypo chevron-right"></span>
+                                    </figcaption>
+                                </a>
+                            </figure>
+                        </li>
+
+
+                        <li>
+                            <figure>
+                                <a href="/project/postype/">
+                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <figcaption>
+                                        <h3>POSTYPE</h3>
+                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <span class="entypo chevron-right"></span>
+                                    </figcaption>
+                                </a>
+                            </figure>
+                        </li>
+
+
+                        <li>
+                            <figure>
+                                <a href="/project/postype/">
+                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <figcaption>
+                                        <h3>POSTYPE</h3>
+                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <span class="entypo chevron-right"></span>
+                                    </figcaption>
+                                </a>
+                            </figure>
+                        </li>
+
+
+                        <li>
+                            <figure>
+                                <a href="/project/postype/">
+                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <figcaption>
+                                        <h3>POSTYPE</h3>
+                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <span class="entypo chevron-right"></span>
+                                    </figcaption>
+                                </a>
+                            </figure>
+                        </li>
+
+
                         <li>
                             <figure>
                                 <a href="/project/postype/">
@@ -117,20 +174,6 @@
                                 </a>
                             </figure>
                         </li>
-
-                        <li>
-                            <figure>
-                                <a href="/project/howmany/">
-                                    <img src="/images/howmany.png" alt="list_thumb">
-                                    <figcaption>
-                                        <h3>HOWMANY</h3>
-                                        <em>지도 분석 사이트</em>
-                                        <span class="entypo chevron-right"></span>
-                                    </figcaption>
-                                </a>
-                            </figure>
-                        </li>
-
 
                         <li>
                             <figure>
@@ -171,18 +214,6 @@
 
                         <li>
                             <figure>
-                                <a href="/project/ipoptv/">
-                                    <img src="/images/ipoptv_thumb.png" alt="list_thumb">
-                                    <figcaption>
-                                        <h3>Ipop tv</h3>
-                                        <em>전문적인 정보와 함께 외국인의 여행을 돕는 서비스</em>
-                                        <span class="entypo chevron-right"></span>
-                                    </figcaption>
-                                </a>
-                            </figure>
-                        </li>
-                        <li>
-                            <figure>
                                 <a href="/project/gramo/">
                                     <img src="/images/gramo_thumb.png" alt="list_thumb">
                                     <figcaption>
@@ -193,6 +224,7 @@
                                 </a>
                             </figure>
                         </li>
+                        
                         <li>
                             <figure>
                                 <a href="/project/people/">
