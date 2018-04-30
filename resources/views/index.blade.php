@@ -116,8 +116,8 @@
                                 <a href="/project/postype/">
                                     <img src="/images/postype_thumb.png" alt="list_thumb">
                                     <figcaption>
-                                        <h3>POSTYPE</h3>
-                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <h3>Femtofab</h3>
+                                        <em>환자의 혈액 데이터를 통한 질병 통계 예측</em>
                                         <span class="entypo chevron-right"></span>
                                     </figcaption>
                                 </a>
@@ -130,8 +130,8 @@
                                 <a href="/project/postype/">
                                     <img src="/images/postype_thumb.png" alt="list_thumb">
                                     <figcaption>
-                                        <h3>POSTYPE</h3>
-                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <h3>Pongift</h3>
+                                        <em>기프트콘 서비스 기반 플랫폼</em>
                                         <span class="entypo chevron-right"></span>
                                     </figcaption>
                                 </a>
@@ -144,8 +144,8 @@
                                 <a href="/project/postype/">
                                     <img src="/images/postype_thumb.png" alt="list_thumb">
                                     <figcaption>
-                                        <h3>POSTYPE</h3>
-                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <h3>IMS Analytics</h3>
+                                        <em>대량발송 효과분석을 위한 데이터 분석 솔루션</em>
                                         <span class="entypo chevron-right"></span>
                                     </figcaption>
                                 </a>
