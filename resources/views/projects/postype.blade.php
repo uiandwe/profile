@@ -9,7 +9,7 @@
     <!-- Header -->
     <section id="header">
         <div class="inner">
-            <h1><strong>POSTYPE</strong></h1>
+            {{--<h1><strong>POSTYPE</strong></h1>--}}
             <div id="cd-intro-background" class="cd-intro-background">
                 <img src="/portfolio-source/postype/image_04.png" alt="">
             </div>

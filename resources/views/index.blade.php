@@ -51,8 +51,12 @@
                         <li class="icon fa-file-code-o">
                             <h3>Front-end</h3>
                             <p>HTML<br>
-                                CSS+Bootstrap<br>
-                                script+jquery
+                                CSS+Bootstrap+sass+scss<br>
+                                script+jquery<br>
+                                angularjs 1.6 / react 3.7+react-redux / Vuejs<br>
+                                webpack / gulp
+
+
                             </p>
                         </li>
                         <li class="icon fa-laptop">
@@ -95,11 +99,11 @@
 
                         <li>
                             <figure>
-                                <a href="/project/postype/">
-                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                <a href="/project/sgsg/">
+                                    <img src="/images/sgsg.png" alt="list_thumb">
                                     <figcaption>
-                                        <h3>POSTYPE</h3>
-                                        <em>콘텐츠를 사고팔 수 있는 블로그 플랫폼</em>
+                                        <h3>쓱싹</h3>
+                                        <em>에어컨 설치 온라인 견적 O2O 서비스</em>
                                         <span class="entypo chevron-right"></span>
                                     </figcaption>
                                 </a>
