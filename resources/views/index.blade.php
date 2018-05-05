@@ -12,9 +12,9 @@
 
             <section id="banner">
                 <div class="inner">
-                    <h2>현승재</h2>
+                    <h2>소프트웨어 엔지니어</h2>
                     <p>
-                        소프트웨어 엔지니어
+                        현승재
                     </p>
                     <img class="user-avatar" src="/images/sj2.png" alt="user profile image">
                 </div>
@@ -53,7 +53,7 @@
                             <p>HTML<br>
                                 CSS+Bootstrap+sass+scss<br>
                                 script+jquery<br>
-                                angularjs 1.6 / react 3.7+react-redux / Vuejs<br>
+                                angularjs 1.6<br>
                                 webpack / gulp
 
 
@@ -61,27 +61,23 @@
                         </li>
                         <li class="icon fa-laptop">
                             <h3>Back-end</h3>
-                            <p>linux+ubuntu, windows+window server<br>
-                                java+spring+ibatis<br>
-                                python+django/Flask<br>
-                                php+phalcon/XE/Wordpress/CI/laravel<br>
-                                nodejs+express+socketIO<br>
+                            <p> linux+ubuntu<br>
+                                python+django<br>
+                                php+phalcon<br>
+                                nodejs+express<br>
                             </p>
                         </li>
 
                         <li class="icon fa-sitemap">
                             <h3>Data Bases</h3>
-                            <p>mysql<br>
-                                oracle<br>
+                            <p> mysql<br>
                                 mongodb<br>
-                                RDB tuning / MapReduce
                             </p>
                         </li>
                         <li class="icon fa-line-chart">
                             <h3>Etc.</h3>
                             <p>Math+Graph+2D/3D<br>
                                 Machine Learning/Artificial Neural Network<br>
-                                c/c++/ncs/winapi/MFC/boost<br>
                             </p>
                         </li>
 
@@ -114,7 +110,7 @@
                         <li>
                             <figure>
                                 <a href="/project/postype/">
-                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <img src="/images/femtofab_thumb.png" alt="list_thumb">
                                     <figcaption>
                                         <h3>Femtofab</h3>
                                         <em>환자의 혈액 데이터를 통한 질병 통계 예측</em>
@@ -128,7 +124,7 @@
                         <li>
                             <figure>
                                 <a href="/project/postype/">
-                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <img src="/images/pongift_thumb.png" alt="list_thumb">
                                     <figcaption>
                                         <h3>Pongift</h3>
                                         <em>기프트콘 서비스 기반 플랫폼</em>
@@ -142,7 +138,7 @@
                         <li>
                             <figure>
                                 <a href="/project/postype/">
-                                    <img src="/images/postype_thumb.png" alt="list_thumb">
+                                    <img src="/images/ims_thumb.png" alt="list_thumb">
                                     <figcaption>
                                         <h3>IMS Analytics</h3>
                                         <em>대량발송 효과분석을 위한 데이터 분석 솔루션</em>

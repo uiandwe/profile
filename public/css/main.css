@@ -3544,7 +3544,7 @@
 
         #banner .user-avatar{
             /* float: left; */
-            margin-left: -12px;
+            /*margin-left: -12px;*/
             /* margin-top: 12px; */
             width: 100px;
             height: 100px;
