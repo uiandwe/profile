@@ -28,7 +28,7 @@
                         <h2>Laughing Beans 래핑빈즈</h2>
                     </header>
                     <p>플랫 디자인이 인상적인 래핑빈즈는 외국어와 모국어 지식을 서로 교환하여 외국어를 재미있게 공부할 수 있는 플랫폼입니다. <br>유튜브에 있는 영화나 드라마 콘텐츠를 통해 모국어를 가르쳐 주면 포인트를 얻고 사용함으로써 내가 배우고 싶은 외국어를 배울 수 있습니다. <br>해당 서비스는 Front-end/Back-end 구현 및 youtube api를 통한 동영상 재생및 제어, TTS를 이용한 텍스트 읽기를 구현하였습니다. </p>
-                    <p><a href="http://www.laughingbeans.com/">사이트로 이동</a></p>
+<!--                    <p><a href="http://www.laughingbeans.com/">사이트로 이동</a></p>-->
                 </div>
                 <div class="6u$ 12u$(medium) important(medium)">
                     <span class="image fit"><img src="/portfolio-source/laughingBeans/img_00.png" alt="" /></span>
