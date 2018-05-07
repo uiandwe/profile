@@ -109,7 +109,7 @@
 
                         <li>
                             <figure>
-                                <a href="/project/postype/">
+                                <a href="/project/idst/">
                                     <img src="/images/femtofab_thumb.png" alt="list_thumb">
                                     <figcaption>
                                         <h3>Femtofab</h3>
@@ -123,7 +123,7 @@
 
                         <li>
                             <figure>
-                                <a href="/project/postype/">
+                                <a href="/project/pongift/">
                                     <img src="/images/pongift_thumb.png" alt="list_thumb">
                                     <figcaption>
                                         <h3>Pongift</h3>
@@ -137,7 +137,7 @@
 
                         <li>
                             <figure>
-                                <a href="/project/postype/">
+                                <a href="/project/ims/">
                                     <img src="/images/ims_thumb.png" alt="list_thumb">
                                     <figcaption>
                                         <h3>IMS Analytics</h3>
