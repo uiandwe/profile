@@ -26,12 +26,10 @@
                     </header>
                     <p> Interactive Message Service Analytics 비즈데이터 개인화 분석 솔루션 <br>
                         대량발송 홍보 메시지의 효과분석을 위한 데이터 분석 솔루션입니다.<br>
-                        “회원 개인 단위에서 비즈데이터를 분석을 할 수 있는 솔루션을 만들고 싶다”는 의뢰를 받아 구현했습니다. <br>
-                        기존의 로그 분석 솔루션은 URL기반이라 개인화 분석이 불가능했고, 첨부링크 확인 여부조차 알 수 없었습니다. <br>
                         IMS Analytics는 이런 맹점을 해결, 개개인 단위에서 누가 ·언제 ·어디서 메시지를 열어봤는지 데이터를 트랙킹할 수 있고, <br>
                         나아가 성별 ·나이 ·지역 ·열람횟수 등 세부정보까지 분석할 수 있습니다. <br>
                         현재 이랜드, 교보생명, 하이마트, 롯데슈퍼, 롯데마트, 한화생명 등 문자 대량발송 DB마케팅을 이용하는 시장의 메인 플레이어들이 IMS Analytics를 이용하고 있습니다.</p>
-
+                        해당 프로젝트에서 발송 및 통계 화면인 클라이언트 전체와 문자 발송 시스템 연동 및 통계 api를 개발하였습니다.
                 </div>
                 <div class="6u$ 12u$(medium) important(medium)">
                     <span class="image fit"><img src="/portfolio-source/ims/image_03.png" alt="" /></span>

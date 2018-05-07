@@ -9,9 +9,9 @@
     <!-- Header -->
     <section id="header">
         <div class="inner">
-            {{--<h1><strong>쓱싹</strong></h1>--}}
+
             <div id="cd-intro-background" class="cd-intro-background">
-                <img src="/portfolio-source/sgsg/image_01.png" alt="">
+                <img src="/portfolio-source/idst/image_06.png" alt="">
             </div>
         </div>
     </section>
@@ -22,16 +22,16 @@
             <div class="row 150%">
                 <div class="6u 12u$(medium)">
                     <header class="major">
-                        <h2>쓱싹</h2>
+                        <h2>IDST</h2>
                     </header>
-                    <p> 에어컨 / 보일러 / 도어락 / 벽걸이 Tv 설치 온라인 견적 서비스 입니다. <br>
-                        집에 설치해야하는 여러 생활 필수품들을 사고, 해당 지역의 설치기사님과 직접 연결해주는 O2O 서비스입니다 <<br>
-                        어드민 화면 및 통계 화면,  설치 신청 및 제품 구매 페이지 ( 세틀뱅크 결제 연동 ), 기사 신청 하이브리드 앱 등의 프론트엔드 단과 <br>
-                        마케팅에 쓰이는 네이버 블로그 API연동 및 전송 로직 서버 클러스터링의 백엔드단을 개발하였습니다.</p>
-                    <p><a href="http://sgsg.slogup.com/">사이트로 이동</a></p>
+                    <p> 환자의 혈액 데이터를 통한 질병 통계 예측 서비스입니다. <br>
+                        제공되는 환자의 샘플의 곡률면의 데이터를 기반으로 해당 곡률면과 가장 비슷한 점도를 찾아내어 질병의 데이터화 및 예측하는 서비스입니다.<br>
+                        해당 프로젝트에서는 제공된 데이터와 비슷한 점도를 찾는 계산식을 구축하였으며, 해당 계산시 클러스터링 연산을 하도록 구축하였습니다. <br>
+                        사용자가 볼수 있는 클라이언트단과 제공되는 엑셀/CSV/그래프 등의 다양한 화면 구성을 담당하였습니다.</p>
+                    <p><a href="http://femtofab.slogup.com/">사이트로 이동</a></p>
                 </div>
                 <div class="6u$ 12u$(medium) important(medium)">
-                    <span class="image fit"><img src="/portfolio-source/sgsg/image_02.png" alt="" /></span>
+                    <span class="image fit"><img src="/portfolio-source/idst/image_05.png" alt="" /></span>
                 </div>
             </div>
         </div>
@@ -50,17 +50,17 @@
                 </div>
                 <div class="6u$ 12u$(medium)">
                     <h3>1. 진행기간</h3>
-                    <p>2017.12 ~ </p>
+                    <p>2018.01 ~ 2018.04</p>
                     <h3>2. 주요내용</h3>
-                    <p> 에어컨 / 보일러 / 도어락 / 벽걸이 Tv 설치 온라인 견적 O2O 서비스</p>
+                    <p> 환자의 혈액 데이터를 통한 질병 통계 예측 서비스</p>
                     <h3>3. 본인이 공헌한 점 </h3>
-                    <p>프론트 엔드 (50%), 백엔드 (20%)</p>
+                    <p>프론트 엔드 (100%), 백엔드 (100%)</p>
                     <h3>4. 사용한 Skill 또는 지식</h3>
                     <p> 프론트 엔드 : angularjs + scss <br>
                         백엔드 : node.js + mysql</p>
                     <h3>5. 결과/성과 </h3>
-                    <p> django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
-                        모듈별 한글 인코딩에 따른 예외 처리 습득 및 향후 변환한 자막들을 시리즈물로 묶어서 배포할 예정
+                    <p> 점도 계산 통계식 구축 및 클러스터링 연산 구축<br>
+                        클라이언트단과 제공되는 엑셀/CSV/그래프 등의 다양한 화면 구성
                     </p>
 
                 </div>
@@ -77,19 +77,19 @@
             <p></p>
             <div class="row 150%">
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_01.png"  alt="" /></span>
-                    <h3>플랫디자인을 통한 세련된 레이아웃 디자인</h3>
-                    <p>파일 변환을 주목적으로 하는 사이트의 활용에 맞게 심플하고 단순하게 디자인을 기획하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/idst/image_02.png"  alt="" /></span>
+                    <h3>사용자 데이터에 의한 계산 <br>진행 (클러스터링)</h3>
+                    <p>사용자가 환자의 데이터를 입력시 해당 데이터는 수십만의 좌표값으로 입력됩니다. 해당 데이터를 빠르게 처리하기 위해 로직을 처리할수 있는 서버를 등록하면, 각서버마다 분배하여 빠르게 계산을 완료하도록 클러스터링을 구축하였습니다.</p>
                 </div>
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_02.png" alt="" /></span>
-                    <h3>SIM파일 분석</h3>
-                    <p>SIM파일 포멧은 우리나라에서만 사용하는 자막파일로써 dfxp파일로의 변환을 위해 구성 요소및 구조를 파악 후 작업으르 하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/idst/image_03.png" alt="" /></span>
+                    <h3>EXCEL/CSV/그래프화면 지원<br><br></h3>
+                    <p>사용자가 다양한 형태로 데이터에 접근할수 있도록 EXCEL/CSV/그래프화면 지원 합니다.</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_03.png" alt="" /></span>
-                    <h3>다양한 한글 포멧 지원</h3>
-                    <p>한글의 경우 다양한 파일 포멧으로 되어 있습니다. (UTF-8 / ISO-8859-2 / cp949 등) 파일을 작성한 프로그램 / OS에 따라 한글 포멧이 달라지게 되는데 이를 모두 변환가능하도록 프로그램을 작성하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/idst/image_04.png" alt="" /></span>
+                    <h3>데이터에 의한 통계 <br>계산식 구축</h3>
+                    <p>환자의 데이터를 입력시 설정된 서버로 각각의 데이터값을 계산 및 합산. 통계 데이터를 진행하게 됩니다. 해당 데이터들은 해찾기를 통해 최종의 가장 근접한 값을 찾아 사용자에게 제공됩니다.</p>
                 </div>
             </div>
         </div>
