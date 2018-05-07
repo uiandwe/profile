@@ -44,8 +44,8 @@
                 <div class="6u 12u$(medium)">
                     <ul class="major-icons">
                         <li><span class="icon style1 major fa-code"></span></li>
-                        <li><span class="icon style2 major "><img src="/portfolio-source/travelingOwl/python.png" alt="" /> </span></li>
-                        <li><span class="icon style3 major "><span>pycaption</span></span></li>
+                        <li><span class="icon style2 major "><img src="/portfolio-source/ims/nodejslogo.png" alt="" /> </span></li>
+                        <li><span class="icon style2 major "><img src="/portfolio-source/ims/angular.png" alt="" /> </span></li>
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">

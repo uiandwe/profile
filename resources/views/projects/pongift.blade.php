@@ -9,9 +9,9 @@
     <!-- Header -->
     <section id="header">
         <div class="inner">
-            {{--<h1><strong>쓱싹</strong></h1>--}}
+
             <div id="cd-intro-background" class="cd-intro-background">
-                <img src="/portfolio-source/sgsg/image_01.png" alt="">
+                <img src="/portfolio-source/pongift/image_06.jpg" alt="">
             </div>
         </div>
     </section>
@@ -22,16 +22,16 @@
             <div class="row 150%">
                 <div class="6u 12u$(medium)">
                     <header class="major">
-                        <h2>쓱싹</h2>
+                        <h2>Pongift</h2>
                     </header>
-                    <p> 에어컨 / 보일러 / 도어락 / 벽걸이 Tv 설치 온라인 견적 서비스 입니다. <br>
-                        집에 설치해야하는 여러 생활 필수품들을 사고, 해당 지역의 설치기사님과 직접 연결해주는 O2O 서비스입니다 <<br>
-                        어드민 화면 및 통계 화면,  설치 신청 및 제품 구매 페이지 ( 세틀뱅크 결제 연동 ), 기사 신청 하이브리드 앱 등의 프론트엔드 단과 <br>
-                        마케팅에 쓰이는 네이버 블로그 API연동 및 전송 로직 서버 클러스터링의 백엔드단을 개발하였습니다.</p>
-                    <p><a href="http://sgsg.slogup.com/">사이트로 이동</a></p>
+                    <p> 폰기프트는 기프티콘 서비스 플랫폼입니다. <br>
+                        기프트 쿠폰 관련 서비스 인프라가 없는 업체들이 폰기프트를 통해서 고객들로 여금 모바일 기프트 쿠폰 서비스를 이용할 수 있도록 구현했습니다. <br>
+                        약 200여개의 API로 이뤄진 대규모시스템이며, 추후 글로벌 확장을 위한 국제화 셋팅까지 적용되었습니다. <br>
+                        각 어플리케이션에 임베디드 될 수 있도록 별도의 SDK도 개발했습니다.</p>
+                    <p><a href="https://play.google.com/store/apps/details?id=com.platfos.pongift&hl=ko">사이트로 이동</a></p>
                 </div>
                 <div class="6u$ 12u$(medium) important(medium)">
-                    <span class="image fit"><img src="/portfolio-source/sgsg/image_02.png" alt="" /></span>
+                    <span class="image fit"><img src="/portfolio-source/pongift/image_06.jpg" alt="" /></span>
                 </div>
             </div>
         </div>
@@ -44,23 +44,23 @@
                 <div class="6u 12u$(medium)">
                     <ul class="major-icons">
                         <li><span class="icon style1 major fa-code"></span></li>
-                        <li><span class="icon style2 major "><img src="/portfolio-source/travelingOwl/python.png" alt="" /> </span></li>
-                        <li><span class="icon style3 major "><span>pycaption</span></span></li>
+                        <li><span class="icon style2 major "><img src="/portfolio-source/ims/nodejslogo.png" alt="" /> </span></li>
+                        <li><span class="icon style2 major "><img src="/portfolio-source/ims/angular.png" alt="" /> </span></li>
                     </ul>
                 </div>
                 <div class="6u$ 12u$(medium)">
                     <h3>1. 진행기간</h3>
-                    <p>2017.12 ~ </p>
+                    <p>2017.04 ~ 2017.10</p>
                     <h3>2. 주요내용</h3>
-                    <p> 에어컨 / 보일러 / 도어락 / 벽걸이 Tv 설치 온라인 견적 O2O 서비스</p>
+                    <p> 모바일 기프트 쿠폰 플랫폼 개발</p>
                     <h3>3. 본인이 공헌한 점 </h3>
-                    <p>프론트 엔드 (50%), 백엔드 (20%)</p>
+                    <p> 프론트 엔드 (30%), 백엔드 (50%)</p>
                     <h3>4. 사용한 Skill 또는 지식</h3>
                     <p> 프론트 엔드 : angularjs + scss <br>
                         백엔드 : node.js + mysql</p>
                     <h3>5. 결과/성과 </h3>
-                    <p> django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
-                        모듈별 한글 인코딩에 따른 예외 처리 습득 및 향후 변환한 자막들을 시리즈물로 묶어서 배포할 예정
+                    <p> 네이버 스토어팜 / 옥션 상품 판매 연동, 이미지 가공 (상품 + 바코드 이미지 실시간 생성)<br>
+                        MMS 발송 서드파티 추가 및 기타 화면 및 성능 개선
                     </p>
 
                 </div>
@@ -77,19 +77,19 @@
             <p></p>
             <div class="row 150%">
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_01.png"  alt="" /></span>
+                    <span class="image fit"><img src="/portfolio-source/pongift/image_02.jpg"  alt="" /></span>
                     <h3>플랫디자인을 통한 세련된 레이아웃 디자인</h3>
                     <p>파일 변환을 주목적으로 하는 사이트의 활용에 맞게 심플하고 단순하게 디자인을 기획하였습니다.</p>
                 </div>
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_02.png" alt="" /></span>
-                    <h3>SIM파일 분석</h3>
-                    <p>SIM파일 포멧은 우리나라에서만 사용하는 자막파일로써 dfxp파일로의 변환을 위해 구성 요소및 구조를 파악 후 작업으르 하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/pongift/image_04.jpg" alt="" /></span>
+                    <h3>기념일 관리</h3>
+                    <p>사용자의 핸드폰에 저장된 기념일을 통해 해당 서비스의 활용을 극대화 하였습니다.</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_03.png" alt="" /></span>
-                    <h3>다양한 한글 포멧 지원</h3>
-                    <p>한글의 경우 다양한 파일 포멧으로 되어 있습니다. (UTF-8 / ISO-8859-2 / cp949 등) 파일을 작성한 프로그램 / OS에 따라 한글 포멧이 달라지게 되는데 이를 모두 변환가능하도록 프로그램을 작성하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/pongift/image_07.png" alt="" /></span>
+                    <h3>네이버 스토어팜 <br> 옥션 판매 연동</h3>
+                    <p>대표 판매 플랫폼인 스토어팜/옥션의 판매 채널을 통해 단순히 sdk에서만의 판매가 아닌 타사 온라인 판매를 위해 상품을 등록/수정 할수 있는 서브파티 연동을 했습니다.</p>
                 </div>
             </div>
         </div>

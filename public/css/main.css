@@ -3963,7 +3963,7 @@
        }
 
        .cs-style-3 figcaption {
-           border-top: 1px solid black;
+           border-top: 1px solid #2e3842;
            opacity: 0;
            -webkit-transform: translateY(100%);
            -moz-transform: translateY(100%);
