@@ -13,6 +13,7 @@
 
     <!-- Header -->
     <section id="header">
+        <button type="button" id="back" class="sg-button sg-back icon fa-arrow-circle-o-left"></button>
         <div class="inner">
             <h1><strong>Ipop Tv</strong></h1>
             <div id="cd-intro-background" class="cd-intro-background">
