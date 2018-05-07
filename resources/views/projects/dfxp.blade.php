@@ -24,9 +24,8 @@
                     <header class="major">
                         <h2>SMI TO DFXP</h2>
                     </header>
-                    <p>DFXP는 웹동영상 자막의 확장자입니다. 웹에서 구동되는 웹들은 기본적으로 *.dfxp 형태의 포멧의 자막을 지원합니다. 현재 넷플릭스는 dfxp를 지원중이며 우리나라에서 가장 많이 사용하는 sim 파일을 dfxp 파일로 변환하기 위한 사이트 입니다. </p>
+                    <p>DFXP는 웹동영상 자막의 확장자입니다. 웹에서 구동되는 웹들은 기본적으로 *.dfxp 형태의 포멧의 자막을 지원합니다. 현재 넷플릭스는 dfxp를 지원중이며 우리나라에서 가장 많이 사용하는 smi 파일을 dfxp 파일로 변환하기 위한 사이트 입니다. (넷플릭스의 국내 진출로 사이트 종료) </p>
 
-                    <p><a href="http://dfxp.geeekdev.com">사이트로 이동</a></p>
                 </div>
                 <div class="6u$ 12u$(medium) important(medium)">
                     <span class="image fit"><img src="/portfolio-source/dfxp/image_00.png" alt="" /></span>
@@ -50,14 +49,14 @@
                     <h3>1. 진행기간</h3>
                     <p>2015.12</p>
                     <h3>2. 주요내용</h3>
-                    <p>자막파일 sim파일을 웹용 자막파일인 dfxp로 변환해 주는 사이트 </p>
+                    <p>자막파일 smi파일을 웹용 자막파일인 dfxp로 변환해 주는 사이트 </p>
                     <h3>3. 본인이 공헌한 점 </h3>
                     <p>프론트 엔드 (100%), 백엔드 (100%)</p>
                     <h3>4. 사용한 Skill 또는 지식</h3>
                     <p> 프론트 엔드 : HTML/CSS/Bootstrap/Javascript <br>
                         백엔드 : python + django + mysql</p>
                     <h3>5. 결과/성과 </h3>
-                    <p> django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
+                    <p> django를 이용한 웹서버 구축 및 smi파일 파싱을 통한 dfxp파일로 변환<br>
                         모듈별 한글 인코딩에 따른 예외 처리 습득 및 향후 변환한 자막들을 시리즈물로 묶어서 배포할 예정
                     </p>
 
@@ -81,8 +80,8 @@
                 </div>
                 <div class="4u 12u$(medium)">
                     <span class="image fit"><img src="/portfolio-source/dfxp/image_02.png" alt="" /></span>
-                    <h3>SIM파일 분석</h3>
-                    <p>SIM파일 포멧은 우리나라에서만 사용하는 자막파일로써 dfxp파일로의 변환을 위해 구성 요소및 구조를 파악 후 작업으르 하였습니다.</p>
+                    <h3>SMI파일 분석</h3>
+                    <p>SMI파일 포멧은 우리나라에서만 사용하는 자막파일로써 dfxp파일로의 변환을 위해 구성 요소및 구조를 파악 후 작업으르 하였습니다.</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
                     <span class="image fit"><img src="/portfolio-source/dfxp/image_03.png" alt="" /></span>
