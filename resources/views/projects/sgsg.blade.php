@@ -27,7 +27,7 @@
                     <p> 에어컨 / 보일러 / 도어락 / 벽걸이 Tv 설치 온라인 견적 서비스 입니다. <br>
                         집에 설치해야하는 여러 생활 필수품들을 사고, 해당 지역의 설치기사님과 직접 연결해주는 O2O 서비스입니다.<br>
                         어드민 화면 및 통계 화면,  설치 신청 및 제품 구매 페이지 ( 세틀뱅크 결제 연동 ), 기사 신청 하이브리드 앱 등의 프론트엔드 단과 <br>
-                        마케팅에 쓰이는 네이버 블로그 API연동 및 전송 로직 서버 클러스터링의 백엔드단을 개발하였습니다.</p>
+                        마케팅에 쓰이는 네이버 블로그 API연동과 함께 전송 로직 서버 클러스터링의 백엔드단을 개발하였습니다.</p>
                     <p><a href="http://sgsg.slogup.com/">사이트로 이동</a></p>
                 </div>
                 <div class="6u$ 12u$(medium) important(medium)">
@@ -59,8 +59,9 @@
                     <p> 프론트 엔드 : angularjs + scss <br>
                         백엔드 : node.js + mysql</p>
                     <h3>5. 결과/성과 </h3>
-                    <p> django를 이용한 웹서버 구축 및 sim파일 파싱을 통한 dfxp파일로 변환<br>
-                        모듈별 한글 인코딩에 따른 예외 처리 습득 및 향후 변환한 자막들을 시리즈물로 묶어서 배포할 예정
+                    <p> 어드민 화면 및 통계 화면,  설치 신청 및 제품 구매 페이지 ( 세틀뱅크 결제 연동 )<br>
+                        세틀뱅크 결제 연동 및 기사 신청 하이브리드 앱 등의 프론트엔드 <br>
+                        네이버 블로그 API연동 및 전송 로직 서버 클러스터링의 백엔드
                     </p>
 
                 </div>
@@ -77,19 +78,19 @@
             <p></p>
             <div class="row 150%">
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_01.png"  alt="" /></span>
-                    <h3>플랫디자인을 통한 세련된 레이아웃 디자인</h3>
-                    <p>파일 변환을 주목적으로 하는 사이트의 활용에 맞게 심플하고 단순하게 디자인을 기획하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/sgsg/image_03.jpg"  alt="" /></span>
+                    <h3>보다 완벽하게 구현된 <br>반응형 웹사이트</h3>
+                    <p>상품 판매에 있어서 가장 중요한 모든 기기와 브라우져에서 작동하도록 반응형에 최적화 하였습니다.</p>
                 </div>
                 <div class="4u 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_02.png" alt="" /></span>
-                    <h3>SIM파일 분석</h3>
-                    <p>SIM파일 포멧은 우리나라에서만 사용하는 자막파일로써 dfxp파일로의 변환을 위해 구성 요소및 구조를 파악 후 작업으르 하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/sgsg/image_06.png" alt="" /></span>
+                    <h3>하이브리드앱을 통한 <br>빠른 배포 및 개발</h3>
+                    <p>앱 개발 및 배포를 단축시키기 위해 하이브리드앱으로 개발하였습니다. 디자인은 모바일 가이드라인을 따르며 액션은 앱과의 브맂지를 통해 성능을 향상시켰습니다.</p>
                 </div>
                 <div class="4u$ 12u$(medium)">
-                    <span class="image fit"><img src="/portfolio-source/dfxp/image_03.png" alt="" /></span>
-                    <h3>다양한 한글 포멧 지원</h3>
-                    <p>한글의 경우 다양한 파일 포멧으로 되어 있습니다. (UTF-8 / ISO-8859-2 / cp949 등) 파일을 작성한 프로그램 / OS에 따라 한글 포멧이 달라지게 되는데 이를 모두 변환가능하도록 프로그램을 작성하였습니다.</p>
+                    <span class="image fit"><img src="/portfolio-source/sgsg/image_07.png" alt="" /></span>
+                    <h3>마케팅 지원을 위한 블로그 <br>api 발송</h3>
+                    <p>네이버 블로그 api를 통해서 마케팅을 지원하였습니다. 대량 글쓰기를 통하면 빠른 처리를 위해 10개의 서버에서 작업을 진행합니다.</p>
                 </div>
             </div>
         </div>
