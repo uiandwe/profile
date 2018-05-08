@@ -28,7 +28,7 @@
                         <h2>ABOUT</h2>
                         <p> 필드에서 개발자로 일하면서 누구나 필요하고 재미있는 서비스를 개발하는것을 좋아합니다. <br>
                             주로 개발되는 서비스의 환경은 web 기반의 front-end, back-end를 총괄할 수 있습니다. <br>
-                            7년차 IT관련 블로그를 운영중 이며<br>
+                            5년차 블로그를 운영중 이며<br>
                             Warning없는 코드를 작성하여 Error가 없는 프로그램 을 만드는것을 목표로 하며 <br>
                             언제나 효율적이고 재미있게 만들수 있는지를 생각합니다. <br>
                             앞으로도 재미있고 더욱 필요한 서비스들을 계속해서 만들어나 갈 것입니다.</p>
@@ -237,18 +237,18 @@
                                 </a>
                             </figure>
                         </li>
-                        <li>
-                            <figure class="etc">
-                                <a href="/pdf/포트폴리오_현승재_2014.pdf">
-                                    <img src="/images/profile.png" alt="list_thumb">
-                                    <figcaption>
-                                        <h3>2014 이전 포트폴리오 </h3>
-                                        <em> etc</em>
-                                        <span class="entypo chevron-right"></span>
-                                    </figcaption>
-                                </a>
-                            </figure>
-                        </li>
+<!--                        <li>-->
+<!--                            <figure class="etc">-->
+<!--                                <a href="/pdf/포트폴리오_현승재_2014.pdf">-->
+<!--                                    <img src="/images/profile.png" alt="list_thumb">-->
+<!--                                    <figcaption>-->
+<!--                                        <h3>2014 이전 포트폴리오 </h3>-->
+<!--                                        <em> etc</em>-->
+<!--                                        <span class="entypo chevron-right"></span>-->
+<!--                                    </figcaption>-->
+<!--                                </a>-->
+<!--                            </figure>-->
+<!--                        </li>-->
                     </ul>
 
                 </div>
